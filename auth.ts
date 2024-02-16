@@ -22,9 +22,9 @@ import NextAuth from "next-auth"
 // import Foursquare from "next-auth/providers/foursquare"
 // import Freshbooks from "next-auth/providers/freshbooks"
 // import Fusionauth from "next-auth/providers/fusionauth"
-import GitHub from "next-auth/providers/github"
+//import GitHub from "next-auth/providers/github"
 // import Gitlab from "next-auth/providers/gitlab"
-// import Google from "next-auth/providers/google"
+import Google from "next-auth/providers/google"
 // import Hubspot from "next-auth/providers/hubspot"
 // import Instagram from "next-auth/providers/instagram"
 // import Kakao from "next-auth/providers/kakao"
@@ -41,7 +41,7 @@ import GitHub from "next-auth/providers/github"
 // import Osso from "next-auth/providers/osso"
 // import Osu from "next-auth/providers/osu"
 // import Passage from "next-auth/providers/passage"
-// import Patreon from "next-auth/providers/patreon"
+ import Patreon from "next-auth/providers/patreon"
 // import Pinterest from "next-auth/providers/pinterest"
 // import Pipedrive from "next-auth/providers/pipedrive"
 // import Reddit from "next-auth/providers/reddit"
@@ -92,9 +92,9 @@ export const config = {
     // Foursquare,
     // Freshbooks,
     // Fusionauth,
-    GitHub,
+   // GitHub,
     // Gitlab,
-    // Google,
+     Google,
     // Hubspot,
     // Instagram,
     // Kakao,
@@ -111,7 +111,7 @@ export const config = {
     // Osso,
     // Osu,
     // Passage,
-    // Patreon,
+     Patreon,
     // Pinterest,
     // Pipedrive,
     // Reddit,

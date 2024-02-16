@@ -1,7 +1,7 @@
 "use client"
 
 import Image from "next/image"
-
+import { MobileSidebar } from "@/components/mobile-sidebar";
 import { cn } from "@/lib/utils"
 import CustomLink from "./custom-link"
 import {
@@ -19,6 +19,7 @@ import { Button } from "./ui/button"
 export function MainNav() {
   return (
     <div className="flex items-center space-x-2 lg:space-x-6">
+       <MobileSidebar />
       <CustomLink href="/">
         <Button variant="ghost" className="p-0">
           <Image src="/logo.png" alt="Home" width="32" height="32" />
