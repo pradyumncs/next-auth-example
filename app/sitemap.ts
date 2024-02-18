@@ -1,0 +1,686 @@
+import { MetadataRoute } from 'next'
+ 
+export default function sitemap(): MetadataRoute.Sitemap {
+  return [
+    {
+      url: 'https://nsfwaichat.tech/',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 1,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/aboutus',
+      lastModified: new Date(),
+      changeFrequency: 'yearly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/spicychat-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/big-brother-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/chat-2-date',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/chat-gpt-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/chatgpt-uncensored',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/gpt-4-for-free',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/chat-iq',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/chat-milfroom',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/raiden-shogun-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/talkai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/femboy-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nastia-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/foot-fetish-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/free-nsfw-chat-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/futanari-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/crushchat-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },   
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/gay-gpt',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/gay-chatbot',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nsfw-pixels',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alina-becke-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/christina-khali-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/waifumiia-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/scarlettkissesxo-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/minami-aizawa-uncensored',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    
+    ///////////////////////////////
+    {
+      url: 'https://nsfwaichat.tech/channels/grace-charis-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/paige-vanzant-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/katie-sigmond-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/yellz0-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/fapello-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/corinna-kopf-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/breckie-hill-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/sofia-gomez-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/2048-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/a-night-with-loona-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/ai-nsfw-rp',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/aizawa-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/albedo-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/alhaitham-nsfw-figure',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/albert-wesker-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/alina-becker-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/all-might-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/anime-figures-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/talk-dirty-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/adult-sex-bot',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/ai-sex-bot',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/replika-ai-nudes',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/hentai-ai-chat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/jenna-ortega-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/the-i-chat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/ariasaki-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/ariel-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/arthur-morgan-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/ashley-matheson-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/asmr-glow-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/abbylynnxxx-onlyfans-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/abby-lynn-fit-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/abby-opel-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/abby-rao-onlyfans-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/abellaskies',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/abigaiil-morris-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/abigail-mandler-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/abigail-ratchford-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/acidblue',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+    {
+      url: 'https://nsfwaichat.tech/channels/bhad-bhabie-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/soogsx-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/mady-gio-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/megnutt-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/belle-delphine-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/cinnanoe-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/abby-berner-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/avaryana-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/the-l-chat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/mario-ai-chat-bot',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/miss-silks-chat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nsfw-ai-prompts',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nsfw-character-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/azzyland-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/bakudeku-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/bakugou-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/bakugou-x-reader-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/belle-delphine-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/spanking-chat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/staylace-chat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/taboo-chat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/taboo-sex-chat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/unfiltered-chat-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/bhadbhabie-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/billie-eilish-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/bleach-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/bonnie-bruise-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/boudoir-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/adison-briana-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/adriana-chechik-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/aeries-steele-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/aestheticallyhannah-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alena-witch-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/feet-lovers-only',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/lesbian-feet-foot-fetish',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/sweet-southern-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/california-beach-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/aesthetic-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+  
+  
+  
+     
+
+
+
+    
+
+  ]
+}
