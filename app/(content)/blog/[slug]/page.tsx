@@ -1,8 +1,9 @@
 import { fullBlog } from "@/lib/interface";
-import { client } from "@/lib/sanity";
-import { urlFor } from "@/lib/sanity";
+import { client } from "@/lib/sanitychannels";
+import { urlFor } from "@/lib/sanitychannels";
 import { PortableText } from "@portabletext/react";
 import Image from "next/image";
+import Chatbot from "@/components/googlechat";
 
 export const revalidate = 30; // revalidate at most 30 seconds
 
@@ -25,31 +26,32 @@ export default async function BlogArticle({
   params: { slug: string };
 }) {
   const data: fullBlog = await getData(params.slug);
-
+  const imageUrl = urlFor(data.titleImage).url();
   return (
-    <div className="mt-8">
-      <h1>
-        <span className="block text-base text-center text-primary font-semibold tracking-wide uppercase">
-          Blog
-        </span>
-        <span className="mt-2 block text-3xl text-center leading-8 font-bold tracking-tight sm:text-4xl">
-          {data.title}
-        </span>
+    <div className="flex flex-col justify-center items-center min-h-screen bg-gray-50 py-10 px-4 sm:px-6 lg:px-8">
+    <article className="max-w-3xl mx-auto">
+      <h1 className="text-3xl text-center font-bold leading-8 tracking-tight sm:text-4xl">
+        {data.title}
       </h1>
-
-      <Image
-        src={urlFor(data.titleImage).url()}
-        width={800}
-        height={800}
-        alt="Title Image"
-        priority
-        className="rounded-lg mt-8 border"
-      />
-
-      <div className="mt-16 prose prose-blue prose-lg dark:prose-invert prose-li:marker:text-primary prose-a:text-primary">
+      <figure className="mt-10 flex justify-center">
+        <Image
+          src={urlFor(data.titleImage).url()}
+          width={400}
+          height={400}
+          alt={data.title}
+          priority
+          className="rounded-lg shadow-lg"
+          layout="intrinsic"
+        />
+      </figure>
+      <div className="mt-8 prose prose-blue prose-lg dark:prose-invert">
         <PortableText value={data.content} />
       </div>
-    </div>
+      {/* Center the Chatbot component */}
+      <div className="flex justify-center items-center mt-10">
+      <Chatbot imageUrl={imageUrl} />
+      </div>
+    </article>
+  </div>
   );
 }
-
