@@ -1,6 +1,6 @@
 import { fullBlog } from "@/lib/interface";
-import { client } from "@/lib/sanitychannels";
-import { urlFor } from "@/lib/sanitychannels";
+import { client } from "@/lib/sanity";
+import { urlFor } from "@/lib/sanity";
 import { PortableText } from "@portabletext/react";
 import Image from "next/image";
 import Chatbot from "@/components/googlechat";

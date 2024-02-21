@@ -1,4 +1,4 @@
-import { client ,urlFor} from "@/lib/sanitychannels";
+import { client ,urlFor} from "@/lib/sanity";
 import { simpleBlogCard } from "@/lib/interface";
 import Image from "next/image";
 import { Card, CardContent } from "@/components/ui/card";
@@ -43,7 +43,7 @@ async function getData() {
               {post.smallDescription}
             </p>
             <Button asChild className="w-full mt-7">
-              <Link href={`/channels/${post.currentSlug}`}>Read More</Link>
+              <Link href={`/blog/${post.currentSlug}`}>Read More</Link>
             </Button>
           </CardContent>
         </Card>
