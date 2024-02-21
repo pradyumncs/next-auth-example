@@ -27,7 +27,6 @@ export default async function BlogArticle({
 }) {
   const data: fullBlog = await getData(params.slug);
   const imageUrl = urlFor(data.titleImage).url();
-
   return (
     <div className="flex flex-col justify-center items-center min-h-screen bg-gray-50 py-10 px-4 sm:px-6 lg:px-8">
     <article className="max-w-3xl mx-auto">
@@ -54,6 +53,5 @@ export default async function BlogArticle({
       </div>
     </article>
   </div>
-
   );
 }

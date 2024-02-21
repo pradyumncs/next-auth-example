@@ -26,15 +26,15 @@ async function getData() {
   
     console.log(data);
     return ( 
-        <div className="grid grid-cols-1 md:grid-cols-4 mt-5 gap-5">
+        <div className="grid grid-cols-2 md:grid-cols-4 mt-5 gap-5">
       {data.map((post, idx) => (
         <Card key={idx}>
           <Image
             src={urlFor(post.titleImage).url()}
             alt="image"
-            width={500}
-            height={500}
-            className="rounded-t-lg h-[300px] object-cover"
+            width={300}
+            height={300}
+            className="rounded-t-lg h-[200px] object-cover"
           />
 
           <CardContent className="mt-5">
