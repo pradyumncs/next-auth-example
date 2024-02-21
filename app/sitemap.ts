@@ -672,6 +672,409 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/hot-women-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/dreamgf',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/cute-chat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/cute-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nsfw-mature',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/brahms-heelshire-nsw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/brooke-monk-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/camilla-araujo-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/carlos-oliveira-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/cartoonists-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alexandra-smelova-onlyfans-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alexas-morgan-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alexa-pearl-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alexxala18-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alexxus-marie-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/vicky-stark-influencers-gone-wild',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/meg-turney-influencers-gone-wild',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/channels/kat-wonders-influencers-gone-wild',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/channels/amouranth-influencers-gone-wild',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/channels/christina-khalil-influencers-gone-wild',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/megan-fox-feet',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/feet/emma-watson-feet',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/feet/i-seek-feet',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/feet/selena-gomez-feet',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/feet/katy-perry-feet',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/feet/kylie-minogue-feet',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/sexy/',
+      lastModified: new Date(),
+      changeFrequency: 'daily',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/sexy/katy-perry-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/sexy/kylie-minogue-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/sexy/selena-gomez-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/sexy/emma-watson-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/sexy/megan-fox-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/character-ai-sex',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/janitorai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nsfw-loras',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/charfriend',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/ai-chatfriend',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/castlevania-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/cat-noir-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/choso-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/cyoa-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/luffy-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alexybabe-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alice-goodwin-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alice-redlips-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alice-will-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alinity-onlyfans-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channels/technoblade-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+   
+    {
+      url: 'https://nsfwaichat.tech/channels/influencers-gone-wild-meg-turney',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+   
+    {
+      url: 'https://nsfwaichat.tech/channels/belle-delphine-influencers-gone-wild',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+   
+    {
+      url: 'https://nsfwaichat.tech/channels/alinity-influencers-gone-wild',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+   
+    {
+      url: 'https://nsfwaichat.tech/channels/natalie-roush-influencers-gone-wild',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/jennifer-aniston-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/ariana-grande-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/margot-robbie-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/victoria-justice-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/emma-stone-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/feet/taylor-swift-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/sexy/ariana-grande-sexy-pics',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/sexy/margot-robbie-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/sexy/victoria-justice-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/sexy/emma-stone-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/sexy/taylor-swift-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+   
+
+
+
+
+
   
   
   
