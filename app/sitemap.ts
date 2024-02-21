@@ -179,61 +179,61 @@ export default function sitemap(): MetadataRoute.Sitemap {
     
     ///////////////////////////////
     {
-      url: 'https://nsfwaichat.tech/channels/grace-charis-fapello',
+      url: 'https://nsfwaichat.tech/channel/grace-charis-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/paige-vanzant-fapello',
+      url: 'https://nsfwaichat.tech/channel/paige-vanzant-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/katie-sigmond-fapello',
+      url: 'https://nsfwaichat.tech/channel/katie-sigmond-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/yellz0-fapello',
+      url: 'https://nsfwaichat.tech/channel/yellz0-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/fapello-leaks',
+      url: 'https://nsfwaichat.tech/channel/fapello-leaks',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/corinna-kopf-fapello',
+      url: 'https://nsfwaichat.tech/channel/corinna-kopf-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/breckie-hill-fapello',
+      url: 'https://nsfwaichat.tech/channel/breckie-hill-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/sofia-gomez-fapello',
+      url: 'https://nsfwaichat.tech/channel/sofia-gomez-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/fapello',
+      url: 'https://nsfwaichat.tech/channel/fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels',
+      url: 'https://nsfwaichat.tech/channel',
       lastModified: new Date(),
       changeFrequency: 'daily',
       priority: 0.5,
@@ -425,49 +425,49 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
     },
     {
-      url: 'https://nsfwaichat.tech/channels/bhad-bhabie-fapello',
+      url: 'https://nsfwaichat.tech/channel/bhad-bhabie-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/soogsx-fapello',
+      url: 'https://nsfwaichat.tech/channel/soogsx-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/mady-gio-fapello',
+      url: 'https://nsfwaichat.tech/channel/mady-gio-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/megnutt-fapello',
+      url: 'https://nsfwaichat.tech/channel/megnutt-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/belle-delphine-fapello',
+      url: 'https://nsfwaichat.tech/channel/belle-delphine-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/cinnanoe-fapello',
+      url: 'https://nsfwaichat.tech/channel/cinnanoe-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/abby-berner-fapello',
+      url: 'https://nsfwaichat.tech/channel/abby-berner-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/avaryana-fapello',
+      url: 'https://nsfwaichat.tech/channel/avaryana-fapello',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
@@ -763,34 +763,34 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/vicky-stark-influencers-gone-wild',
+      url: 'https://nsfwaichat.tech/channel/vicky-stark-influencers-gone-wild',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/meg-turney-influencers-gone-wild',
-      lastModified: new Date(),
-      changeFrequency: 'monthly',
-      priority: 0.5,
-    },  
-
-    {
-      url: 'https://nsfwaichat.tech/channels/kat-wonders-influencers-gone-wild',
+      url: 'https://nsfwaichat.tech/channel/meg-turney-influencers-gone-wild',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
 
     {
-      url: 'https://nsfwaichat.tech/channels/amouranth-influencers-gone-wild',
+      url: 'https://nsfwaichat.tech/channel/kat-wonders-influencers-gone-wild',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
 
     {
-      url: 'https://nsfwaichat.tech/channels/christina-khalil-influencers-gone-wild',
+      url: 'https://nsfwaichat.tech/channel/amouranth-influencers-gone-wild',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/channel/christina-khalil-influencers-gone-wild',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
@@ -969,35 +969,35 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
     },  
     {
-      url: 'https://nsfwaichat.tech/channels/technoblade-x-reader',
+      url: 'https://nsfwaichat.tech/channel/technoblade-x-reader',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
    
     {
-      url: 'https://nsfwaichat.tech/channels/influencers-gone-wild-meg-turney',
+      url: 'https://nsfwaichat.tech/channel/influencers-gone-wild-meg-turney',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
    
     {
-      url: 'https://nsfwaichat.tech/channels/belle-delphine-influencers-gone-wild',
+      url: 'https://nsfwaichat.tech/channel/belle-delphine-influencers-gone-wild',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
    
     {
-      url: 'https://nsfwaichat.tech/channels/alinity-influencers-gone-wild',
+      url: 'https://nsfwaichat.tech/channel/alinity-influencers-gone-wild',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     },  
    
     {
-      url: 'https://nsfwaichat.tech/channels/natalie-roush-influencers-gone-wild',
+      url: 'https://nsfwaichat.tech/channel/natalie-roush-influencers-gone-wild',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
