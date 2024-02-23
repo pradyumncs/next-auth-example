@@ -9,9 +9,9 @@ import { Sidebar } from "@/components/sidebar"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "NextAuth.js Example",
+  title: "NSFW AI Chat",
   description:
-    "This is an example site to demonstrate how to use NextAuth.js for authentication",
+    "Nsfwaichat Experience discreet NSFW AI-driven conversations with NSFwAIChat.tech where you chat with NSFW Characters.",
 }
 
 export default function RootLayout({ children }: React.PropsWithChildren) {
