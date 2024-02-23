@@ -1069,21 +1069,194 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
     },  
 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/waifu-crossing',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/waifu-hub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/waifu-slut-school',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+   
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/only-waifus-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+   
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/sexy-ai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+   
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/zoro-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+   
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/dabi-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+   
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/dazai-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+   
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/diane-guerrero-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+   
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/diluc-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alina-lopez-onlyfans-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/aline-faria-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/aline-fox-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alissa-violet-onlyfans-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/alittlekay-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
 
-
-
-
-
-  
-  
-  
-  
-     
-
-
-
-    
-
-  ]
-}
+    {
+      url: 'https://nsfwaichat.tech/channel/dirtyship',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/dirtyship-asmr',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/amouranth-dirtyship',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/asmr-maddy-dirtyship',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/tessa-dowler-dirtyship',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/sexy/scarlett-johansson-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/sexy/rihanna-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/sexy/kaley-cuoco-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/sexy/jessica-alba-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/sexy/mila-kunis-sexy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/feet/scarlett-johansson-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+     {
+      url: 'https://nsfwaichat.tech/feet/rihanna-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/feet/kaley-cuoco-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/feet/jessica-alba-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/feet/mila-kunis-feet',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },
+        ]
+      }
