@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const post:any = [
+    const post:any = [
     {
         id: 1,
         title: "Card Title 1",
@@ -13,12 +13,12 @@ const post:any = [
         description: "Amazing post",
 
     }
-]
+    ]
 
-export async function GET(request: Request, context:any) {
-const {params} = context;
-return NextResponse.json({
-post: post.find((post:any) => post.id === Number(params.id)) || null,
-})
+    export async function GET(request: Request, context:any) {
+        const {params} = context;
+    return NextResponse.json({
+        post: post.find((post:any) => post.id === Number(params.id)) || null,
+    })
 
 }

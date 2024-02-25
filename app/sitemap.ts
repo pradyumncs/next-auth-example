@@ -1443,8 +1443,667 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
+    },
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/yandere-miguel-o-hara-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
     },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/yandere-hentai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/yandere-x-reader-lemon',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/yandere-x-reader-escape',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/stranger-things-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/stranger-things-x-male-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/stranger-things-x-reader-smut',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/stranger-things-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/max-mayfield-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/billy-hargrove-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/billy-hargrove-x-reader-smut',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/billy-hargrove-x-reader-fluff',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/billy-hargrove-x-reader-protective',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/eddie-munson-x-reader-smut',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/eddie-munson-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/eddie-munson-x-reader-angst',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/eddie-munson-x-reader-pregnant',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/steve-harrington-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/steve-harrington-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/steve-harrington-x-reader-pregnant',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/steve-harrington-x-reader-angst',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/ghost-cod-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/ghost-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/giyuu-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/gojo-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/good-omens-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/bigtittygothegg-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/natalie-roush-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/bishoujomom-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/therealbrittfit-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/christina-khalil-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/kkvsh-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/darshelle-stevens-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/isla-moon-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/sky-bri-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
 
+    {
+      url: 'https://nsfwaichat.tech/channel/ashley-serrano-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/paige-vanzant-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/channel/thenicolet-thothub',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+  
+    {
+      url: 'https://nsfwaichat.tech/channel/justaminx-fansly-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/giyuu-x-shinobu',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/giyuu-x-tanjiro',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/sanemi-x-giyuu',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/giyuu-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/giyuu-x-reader-smut',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/giyuu-x-reader-lemon',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/giyuu-x-male-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/shinobu-x-giyuu-r34',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/demon-slayer-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/yandere-demon-slayer-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/demon-slayer-x-reader-smut',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/demon-slayer-x-reader-lemon',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/demon-slayer-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/tanjiro-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nezuko-x-tanjiro-r34',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/tanjiro-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/tanjiro-x-reader-lemon',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/mitsuri-x-tanjiro-r34',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nezuko-x-tanjiro-rule-34',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nezuko-and-zenitsu-r34',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nezuko-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/gojo-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/haikyuu-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/hannigram-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/hinata-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/hisoka-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/hobie-brown-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    
+    {
+      url: 'https://nsfwaichat.tech/channel/sarah-jayne-dunn-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/lucy-pinder-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/ebanie-bridges-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/melimtx-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/kerry-katona-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/iggy-azalea-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/katie-price-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/madelene-wright-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/anna-faith-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/amanda-cerny-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/marnie-simpson-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/slayeas-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/heyimbee-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/elle-brooke-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/lottie-moss-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/airikacal-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/hannah-owo-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/pureruby87-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/demi-rose-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/lottie-lion-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/elise-christie-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/lauren-alexis-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/rhian-sugden-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/eva-violet-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/eva-violet-fapello',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/allecakes-onlyfans-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/allie_nsfw-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/allipark22-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  {
+      url: 'https://nsfwaichat.tech/onlyfans/allison-parker-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  {
+      url: 'https://nsfwaichat.tech/onlyfans/ally-hardesty-onlyfans-leaks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  {
+      url: 'https://nsfwaichat.tech/onlyfans/alva-jay-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  {
+      url: 'https://nsfwaichat.tech/onlyfans/alyssa-mckay-onlyfans',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  {
+      url: 'https://nsfwaichat.tech/onlyfans/amanda-cerny-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-chapter',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-chapter-1',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-hentai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-chapter-185',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-chapter-155',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-199',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-chapter-2',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-200',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/s',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-chapter-187',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-chapter-183',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/manga/secret-class-uncensored',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
 
 
 
