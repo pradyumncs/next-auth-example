@@ -5,7 +5,7 @@ import Footer from "@/components/footer"
 import Header from "@/components/header"
 import { Sidebar } from "@/components/sidebar"
 import { Analytics } from "@vercel/analytics/react"
-
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -34,6 +34,7 @@ export default function RootLayout({ children }: React.PropsWithChildren) {
       </div>
     
       <Footer />
+      <SpeedInsights />
       <Analytics />
     </body>
     </html>
