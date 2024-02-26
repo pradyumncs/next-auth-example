@@ -4,6 +4,7 @@ import { Inter } from "next/font/google"
 import Footer from "@/components/footer"
 import Header from "@/components/header"
 import { Sidebar } from "@/components/sidebar"
+import { Analytics } from "@vercel/analytics/react"
 
 
 const inter = Inter({ subsets: ["latin"] })
@@ -27,12 +28,13 @@ export default function RootLayout({ children }: React.PropsWithChildren) {
         </aside>
     
         {/* Main content: Adjust padding to account for the fixed sidebar */}
-        <main className="flex-auto w-full md:pl-64 lg:pl-80 xl:pl-96 px-4 py-6 mx-auto max-w-7xl">
+        <main className="flex-auto w-full md:pl-64 lg:pl-80 xl:pl-56 px-4 py-6 mx-auto max-w-7xl">
           {children}
         </main>
       </div>
     
       <Footer />
+      <Analytics />
     </body>
     </html>
   )
