@@ -22,7 +22,7 @@ export function MainNav() {
        <MobileSidebar />
       <CustomLink href="/">
         <Button variant="ghost" className="p-0">
-          <Image src="/logo.png" alt="Home" width="32" height="32" />
+          <Image src="/logo.png" alt="Home" width="32" height="32"  />
         </Button>
       </CustomLink>
       <NavigationMenu>

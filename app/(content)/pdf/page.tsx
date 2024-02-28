@@ -35,6 +35,7 @@ async function getData() {
             width={300}
             height={300}
             className="rounded-t-lg h-[200px] object-cover"
+            unoptimized = {true}
           />
 
           <CardContent className="mt-5">
