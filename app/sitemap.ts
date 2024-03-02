@@ -2541,6 +2541,106 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.5,
     },   
+    {
+      url: 'https://nsfwaichat.tech/channel/naruto-x-sakura-angelyeah',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/naruto-x-kushina-lemon',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/naruto-x-kushinahentai',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/naruto-x-sakura-fanfic',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/naruto-x-anko-fanfic',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/naruto-x-male-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/naruto-x-sasuke',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/naruto-x-reader-smut',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/naruto-x-sasuke-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+
+    {
+      url: 'https://nsfwaichat.tech/channel/gotanynuded',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    {
+      url: 'https://nsfwaichat.tech/channel/internet-chicks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/internet-chicka',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/vicky-stark-internetchicks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/kendra-lust-hornysimp',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+    {
+      url: 'https://nsfwaichat.tech/channel/hornysimp',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },  
+   
+
+
+
+
+
+
+
+
+
 
 
 

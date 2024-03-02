@@ -10,8 +10,8 @@ interface CardItem {
   title: string;
   description: string;
   imageUrl: string;
-  likes: number;
-  comments: number;
+  likes: string;
+ 
 }
 
 // Modify your Carduno component to accept props
@@ -52,8 +52,8 @@ const Carduno: React.FC<{ cards: CardItem[] }> = ({ cards }) => {
     alt="Card image" 
     width={350} 
     height={350} 
-    objectFit="cover" 
-    layout="responsive"
+   
+  
   />
 </div>
               <CardHeader>
