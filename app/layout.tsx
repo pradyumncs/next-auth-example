@@ -35,7 +35,7 @@ export default function RootLayout({ children }: React.PropsWithChildren) {
       </div>
     
       <Footer />
-      <GoogleAnalytics gaId="GTM-T82B554T" />
+      <GoogleAnalytics gaId="G-F9EFC31FVD" />
       <SpeedInsights />
       <Analytics />
     </body>
