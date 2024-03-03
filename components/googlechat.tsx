@@ -145,7 +145,7 @@ const Chatbot: React.FC<ChatbotProps> = ({ imageUrl }) => {
       <Toaster />
       <Link href="/">
         <div className="flex gap-2 items-center font-bold">
-          <Image src={imageUrl} alt="logo" width={35} height={35} />
+          <Image  unoptimized = {true}  src={imageUrl} alt="logo" width={35} height={35} />
           <h1 className="text-2xl">Chat With Me</h1>
         </div>
       </Link>
@@ -155,7 +155,7 @@ const Chatbot: React.FC<ChatbotProps> = ({ imageUrl }) => {
           <div key={chat.id} className="mb-5 relative">
             <div className={`p-2 rounded-xl ${chat.sender == "user" ? styles.user : styles.model}`}>
               <div className={styles.icons}>
-                <Image src={chat.sender == "user" ? "/user.svg" : imageUrl} alt="logo" width={30} height={30}  className={chat.sender !== "user" ? styles.roundImage : ""} />
+                <Image unoptimized={chat.sender !== "user"} src={chat.sender == "user" ? "/user.svg" : imageUrl} alt="logo" width={30} height={30}  className={chat.sender !== "user" ? styles.roundImage : ""} />
               </div>
               <Markdown className="mt-2">
                 {chat.message}
