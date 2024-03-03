@@ -16,13 +16,13 @@
     <div className="flex flex-col justify-center items-center min-h-screen bg-gray-50 py-10 px-4 sm:px-6 lg:px-8">
     <article className="max-w-3xl mx-auto">
       <h1 className="text-3xl text-center font-bold leading-8 tracking-tight sm:text-4xl">
-        {params.title}
+        {post.title}
       </h1>
      
   
       {/* Center the Chatbot component */}
       <div className="flex justify-center items-center mt-10">
-      <Chatbot imageUrl={params.imageUrl} />
+      <Chatbot imageUrl={post.imageUrl} />
       </div>
     </article>
   </div>
