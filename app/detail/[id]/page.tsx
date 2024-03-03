@@ -12,10 +12,12 @@
     const {post} = await getpostbyid(params.id)
 
   return (
-    <div>Ticketdetails
- 
+    <div>Ticketdetailsvx
+ z
       <p>
         {post.title}
+        {post.title}
+        {post.description}
       </p>  
  
     </div>
