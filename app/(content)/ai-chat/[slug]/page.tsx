@@ -42,7 +42,7 @@ export default async function BlogArticle({
           priority
           className="rounded-lg shadow-lg"
           layout="intrinsic"
-          unoptimized = {true} 
+   
         />
       </figure>
       <div className="mt-8 prose prose-blue prose-lg dark:prose-invert">
