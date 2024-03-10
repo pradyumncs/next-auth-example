@@ -1,4 +1,5 @@
 import CustomLink from "./custom-link"
+import CustomLinklight from "./custom-linklight"
 
 export default function Footer() {
   return (
@@ -10,7 +11,14 @@ export default function Footer() {
       <CustomLink href="https://github.com/nextauthjs/next-auth/tree/main/apps/examples/nextjs">
         Source on GitHub
       </CustomLink>
-      <CustomLink href="/policy">Policy</CustomLink>
+      <CustomLinklight href="/policy">Policy</CustomLinklight>
+      <CustomLinklight href="/ai-chat">AI Chat</CustomLinklight>
+      <CustomLinklight href="/channel">Channel</CustomLinklight>
+      <CustomLinklight href="/feet">Feet Chat</CustomLinklight>
+      <CustomLinklight href="/feet">PDF Chat</CustomLinklight>
+      <CustomLinklight href="/sexy">Sexy Chat</CustomLinklight>
+      <CustomLinklight href="/Manga">Manga</CustomLinklight>
+      <CustomLinklight href="/onlyfans">OnlyFans</CustomLinklight>
     </footer>
   )
 }
