@@ -3197,6 +3197,254 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.5,
     },    
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/angelwoof-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/onlyfans/angie-varona-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/angelbaexo-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/angela-white-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/anisa-jomha-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    
+    {
+      url: 'https://nsfwaichat.tech/onlyfans/anja-diergarten-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    
+   
+    {
+      url: 'https://nsfwaichat.tech/manga/reaper-of-the-drifting-moon',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/manga/excuse-me-this-is-my-room',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/manga/addicted-to-my-stepmom-raws',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/manga/the-banished-sage-who-escaped-his-childhood-friend-chapter-10',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/manga/im-sick-and-tired-of-my-childhood-friend',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/manga/the-banished-sage-who-escaped-his-childhood-friend',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/manga/sexercise-manhwa',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/manga/the-boss-in-school',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/manga/fitness-manga',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/manga/young-boss-manwha',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/one-piece-x',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/one-piece-yamato-x-male-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/luffy-x-nami',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/luffy-x-uta',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/luffy-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/luffy-x-zoro',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/luffy-x-hancock',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/luffy-x-boa',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/luffy-x-robin',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/i-love-you-1-to-100-copy-and-paste',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/all-my-roommates-love-finale',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/jackie-love-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/lila-love-planetsuzy',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/love-lilah-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nami-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/sanji-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nico-robin-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/boa-hancock-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/ace-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/pokimane-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/water-law-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/usopp-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/shanks-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/sex-chat-bot',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/whitebeard-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
     
     
     
