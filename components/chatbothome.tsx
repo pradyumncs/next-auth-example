@@ -47,6 +47,7 @@ const Chatbothome: React.FC<ChatbotProps> = ({ imageUrl,title }) => {
   const RequestGemini = async (prompt: any) => {
 
     const response = await fetch('/api/googleapi', {
+      
       method: 'POST',
       body: JSON.stringify({ userPrompt: prompt }),
       headers: {
