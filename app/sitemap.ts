@@ -2729,31 +2729,31 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
     }, 
     {
-      url: 'https://nsfwaichat.tech/channels/xxbrits',
+      url: 'https://nsfwaichat.tech/channel/xxbrits',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     }, 
     {
-      url: 'https://nsfwaichat.tech/channels/toni-camille-xxbrits',
+      url: 'https://nsfwaichat.tech/channel/toni-camille-xxbrits',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     }, 
     {
-      url: 'https://nsfwaichat.tech/channels/elle-brooke-xxbrits',
+      url: 'https://nsfwaichat.tech/channel/elle-brooke-xxbrits',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     }, 
     {
-      url: 'https://nsfwaichat.tech/channels/emily-black-xxbrits',
+      url: 'https://nsfwaichat.tech/channel/emily-black-xxbrits',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
     }, 
     {
-      url: 'https://nsfwaichat.tech/channels/emily-black-joi',
+      url: 'https://nsfwaichat.tech/channel/emily-black-joi',
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.5,
@@ -3445,12 +3445,188 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.5,
     },    
-    
-    
-    
-
-
-
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/mk-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/neekolul-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nobody-in-particular-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nsfw-pokemon',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nsfw-snapchat',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/nsfw-webcomics',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/oakley-rae-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/obey-me-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/obey-me-lucifer-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/obey-me-mammon-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/obey-me-x-reader-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/channel/ososedki',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },      {
+      url: 'https://nsfwaichat.tech/channel/Onlyfaps',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/channel/fansteek',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/channel/fapopedia',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/channel/hotscope',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/channel/findhername',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/channel/tnapics',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/channel/onlyjerk',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/channel/bootydeg',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/channel/thothd',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/channel/baddieschicks',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },     {
+      url: 'https://nsfwaichat.tech/channel/hornyfap',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    },    
+    {
+      url: 'https://nsfwaichat.tech/pdf/the-hunger-games-pdf',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/pdf/lord-of-the-rings-fellowship-of-the-ring-pdf',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/pdf/lord-of-the-rings-pdf',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/pdf/game-of-thrones-pdf',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/pdf/game-of-thrones-map-pdf',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/pdf/outlander-pdf',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/pdf/the-chronicles-of-narnia-pdf',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/pdf/anatomy-for-sculptors-pdf',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+   
 
 
         ]
