@@ -29,9 +29,10 @@ export default function RootLayout({ children }: React.PropsWithChildren) {
         </aside>
     
         {/* Main content: Adjust padding to account for the fixed sidebar */}
-        <main className="flex-auto w-full md:pl-64 lg:pl-80 xl:pl-56 px-4 py-6 mx-auto max-w-7xl">
-          {children}
-        </main>
+        <main className="flex-auto w-full md:pl-64 lg:pl-80 xl:pl-80 px-4 py-6 mx-auto max-w-9xl">  
+        {children}
+</main>
+
       </div>
     
       <Footer />

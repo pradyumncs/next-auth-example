@@ -3626,7 +3626,98 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.5,
     }, 
-   
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/genos-x-saitama',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
+    {
+      url: 'https://nsfwaichat.tech/ai-chat/saitama-battlegrounds-script',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/saitama-r34',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/one-punch-man-x-reader',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/india-love-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/indian-kinky-girls',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/teens-of-america',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/onlywaifus',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/solo-farming-in-the-tower-novel',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/faith-marone-onlyfans-leaked',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/faith-lianne-onlyfans-leak',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/one-punch-man-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/saitama-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/angie-faith-nick-marxx',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/genos-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/fubuki-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/one-piece-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, {
+      url: 'https://nsfwaichat.tech/ai-chat/pyramid-head-nsfw',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.5,
+    }, 
 
 
         ]
