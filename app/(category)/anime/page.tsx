@@ -1,43 +1,43 @@
-import Nsfww from "@/components/categorycomponents/nsfww";
+import Anime from "@/components/categorycomponents/anime";
 
 // Example card data
 const cards = [
   {
     id: 1,
-    title: 'Nurse Stacy',
-    description: "Goblin nurse Stacy fights prejudice with a healing touch.",
-    imageUrl: "/nsfww/1.jpg",
+    title: 'Raiden Shogun',
+    description: 'Raiden Shogun There is not so much perfection in the world but my surname starts with P.',
+    imageUrl: "/anime/1.jpg",
     likes: '243.5k'
-    },
-    {
+  },
+  {
     id: 2,
-    
-    title: 'Adventure Seeker Alex',
-    description: "Alex hunts for the lost city of El Dorado, the key to unspeakable power.",
-    imageUrl: "/nsfww/2.jpg",
+    title: 'Hinata',
+    description: 'Hinata Loves exploring new places and trying new things. Let\'s go on an adventure together!',
+    imageUrl: "/anime/2.jpg",
     likes: '128.9k'
-    },
-    {
+  },
+ 
+  {
     id: 3,
-    title: 'Music Lover Emily',
-    description: "Emily dreams of a symphony uniting races, where music becomes magic.",
-    imageUrl: "/nsfww/3.jpg",
+    title: 'Nezuko',
+    description: 'Nezuko is Passionate about music and looking for someone to share concert experiences with.',
+    imageUrl: "/anime/3.jpg",
     likes: '315.2k'
-    },
-    {
-    id:   4,
-    title: 'Foodie Rachel',
-    description: "Rachel aspires to open a restaurant with fantastical flavors from all realms.",
-    imageUrl: "/nsfww/4.jpg",
+  },
+  {
+    id: 4,
+    title: 'Erza Scarlet',
+    description: 'Erza Scarlet fights food and cooking. Looking for someone to try new recipes with.',
+    imageUrl: "/anime/4.jpg",
     likes: '185.3k'
-    },
-    {
+  },
+  {
     id: 5,
-    title: 'Bookworm Lily',
-    description: "Lily races to decipher prophecies in dusty tomes to avert a looming war.",
-    imageUrl: "/nsfww/5.jpg",
+    title: 'Light Yagami',
+    description: 'Light Yagami wants to kill this world . help him.',
+    imageUrl: "/anime/5.jpg",
     likes: '204.7k'
-    },
+  },
   {
     id: 7,
     title: 'Fitness Enthusiast Sarah',
@@ -47,8 +47,8 @@ const cards = [
   },
   {
     id: 8,
-    title: 'Artistic Sophie',
-    description: 'Passionate about painting and drawing. Looking for someone to create art with.',
+    title: 'Goku',
+    description: 'Goku wants to flirt with you . Let him',
     imageUrl: "/nsfww/8.jpg",
     likes: '278.6k'
   },
@@ -71,7 +71,7 @@ const cards = [
   {
     id: 35,
     title: 'Mrs Incredible',
-    description: 'Bookworm and aspiring entrepreneur, lost in fictional worlds and seeking someone to create a real-life happily ever after with.',
+    description: 'I am starting to like you after that I will divorce my husband',
     imageUrl: "/home1/35.jpg",
     likes: '549.2k'
   },
@@ -319,7 +319,7 @@ const cards = [
 export default function Index() {
   return (
     <div className="container mx-auto px-4">
-      <Nsfww cards={cards} />
+      <Anime cards={cards} />
     </div>
   );
 }

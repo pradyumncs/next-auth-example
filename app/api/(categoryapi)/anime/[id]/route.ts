@@ -1,110 +1,113 @@
 import { NextResponse } from "next/server";
 
     const post:any = [
-      { 
+      {
         id: 1,
-        title: 'Nurse Stacy', 
-        description: 'There is not so much perfection in the world but my surname starts with P.', 
-        imageUrl: "/home1/1.jpg",
+        title: 'Raiden Shogun',
+        description: 'There is not so much perfection in the world but my surname starts with P.',
+        imageUrl: "/anime/1.jpg",
         likes: '243.5k'
       },
       {
         id: 2,
-        title: 'Jack Smith', 
-        description: 'Would I rather be feared or loved? Easy, both', 
-        imageUrl: "/home1/2.jpg",
-        likes: '755.0k'
+        title: 'hinata',
+        description: 'Love exploring new places and trying new things. Let\'s go on an adventure together!',
+        imageUrl: "/anime/2.jpg",
+        likes: '128.9k'
       },
+     
       {
         id: 3,
-        title: 'Emily', 
-        description: 'I believe in love at first sight, or should I walk by again?', 
-        imageUrl: "/home1/3.jpg",
-        likes: '492.8k'
+        title: 'Nezuko',
+        description: 'Passionate about music and looking for someone to share concert experiences with.',
+        imageUrl: "/anime/3.jpg",
+        likes: '315.2k'
       },
       {
         id: 4,
-        title: 'Chris Johnson', 
-        description: 'Let’s create our own story together', 
-        imageUrl: "/home1/4.jpg",
-        likes: '365.2k'
+        title: 'Erza Scarlet',
+        description: 'Passionate about food and cooking. Looking for someone to try new recipes with.',
+        imageUrl: "/anime/4.jpg",
+        likes: '185.3k'
       },
       {
         id: 5,
-        title: 'Sophie', 
-        description: 'Looking for someone to explore the world with', 
-        imageUrl: "/home1/5.jpg",
-        likes: '621.9k'
-      },
-      {
-        id: 6,
-        title: 'Daniel Brown', 
-        description: 'Adventure seeker and food lover', 
-        imageUrl: "/home1/6.jpg",
-        likes: '804.3k'
+        title: 'Light Yagami',
+        description: 'Seeking someone to discuss literature and spend cozy evenings reading together.',
+        imageUrl: "/anime/5.jpg",
+        likes: '204.7k'
       },
       {
         id: 7,
-        title: 'Olivia', 
-        description: 'Let’s make every moment unforgettable', 
-        imageUrl: "/home1/7.jpg",
-        likes: '278.7k'
+        title: 'Fitness Enthusiast Sarah',
+        description: 'Into fitness and outdoor activities. Let\'s go for a run or hike together!',
+        imageUrl: "/nsfww/7.jpg",
+        likes: '192.3k'
       },
       {
         id: 8,
-        title: 'Michael', 
-        description: 'Soccer fan, looking for someone to score lifes goals with.', 
-        imageUrl: "/home1/8.jpg",
-        likes: '561.0k'
+        title: 'Artistic Sophie',
+        description: 'Passionate about painting and drawing. Looking for someone to create art with.',
+        imageUrl: "/nsfww/8.jpg",
+        likes: '278.6k'
       },
       {
         id: 9,
-        title: 'Sophia', 
-        description: 'Aspiring chef, my recipes are as adventurous as my travel plans.', 
-        imageUrl: "/home1/9.jpg",
-        likes: '432.6k'
+        title: 'Animal Lover Mia',
+        description: 'Adores animals and spends free time volunteering at the local shelter.',
+        imageUrl: "/nsfww/9.jpg",
+        likes: '176.4k'
       },
       {
         id: 10,
-        title: 'Miguel', 
-        description: 'Tech geek, love to discuss everything from AI to the latest in VR.', 
-        imageUrl: "/home1/10.jpg",
-        likes: '739.2k'
+        title: 'Travel Enthusiast Chloe',
+        description: 'Wanderlust-driven adventurer seeking a partner for exploring the world.',
+        imageUrl: "/nsfww/10.jpg",
+        likes: '341.9k'
+      },
+    
+    
+      {
+        id: 35,
+        title: 'Mrs Incredible',
+        description: 'Bookworm and aspiring entrepreneur, lost in fictional worlds and seeking someone to create a real-life happily ever after with.',
+        imageUrl: "/home1/35.jpg",
+        likes: '549.2k'
       },
       {
-        id: 11,
-        title: 'Mikasa Ackerman', 
-        description: 'Bookworm Killer, seeking someone to write the next chapter with.', 
-        imageUrl: "/home1/11.jpg",
-        likes: '584.2k'
+        id: 36,
+        title: 'Benjamin',
+        description: 'Musician, serenading the world and searching for someone to harmonize with life’s melodies.',
+        imageUrl: "/home1/36.jpg",
+        likes: '938.6k'
       },
       {
-        id: 12,
-        title: 'Daniel', 
-        description: 'Rock climber and adventure enthusiast, lets climb new heights together.', 
-        imageUrl: "/home1/12.jpg",
-        likes: '327.6k'
+        id: 37,
+        title: 'Pink Wolf',
+        description: "Ava's restaurant isn't just about food, it's about creating unforgettable experiences. One evening, a charming musician named Benjamin walks in, serenading the guests with his melodies. As their paths intertwine over a shared love for music and art, could their connection be the perfect harmony?",
+        imageUrl: "/home1/37.jpg",
+        likes: '938.6k'
       },
       {
-        id: 13,
-        title: 'Emma', 
-        description: 'Yoga teacher, finding balance in life and looking for someone to share the journey.', 
-        imageUrl: "/home1/13.jpg",
-        likes: '479.3k'
+        id: 38,
+        title: 'Benjamin',
+        description: "Benjamin's guitar isn't just an instrument, it's his voice. While busking on a street corner, he catches the eye of Mia, a bookworm lost in a fantastical world. As their conversation flows from fictional adventures to real-life possibilities, could their connection be a story waiting to be written?",
+        imageUrl: "/home1/38.jpg",
+        likes: '549.2k'
       },
       {
-        id: 14,
-        title: 'Miguel O Hara', 
-        description: 'Aspiring musician, my lifes a soundtrack waiting for a duet partner.', 
-        imageUrl: "/home1/14.jpg",
-        likes: '641.8k'
+        id: 39,
+        title: 'Mia',
+        description: "Mia's love for books goes beyond reading, it's a portal to new worlds. At a local bookstore, she bumps into Alexander, a photographer capturing fleeting moments in time. As they share their passions and delve into each other's stories, could their connection be the most captivating chapter yet?",
+        imageUrl: "/home1/39.jpg",
+        likes: '712.5k'
       },
       {
-        id: 15,
-        title: 'Isabella', 
-        description: 'Fashion blogger, blending style and substance. Looking for my trendsetter.', 
-        imageUrl: "/home1/15.jpg",
-        likes: '714.5k'
+        id: 40,
+        title: 'Black Lover',
+        description: "Alexander's lens captures not just images, but emotions. On a nature hike, he encounters Sophia, a fashion designer with a flair for creating beauty. As they discuss art and the world around them, could their connection be a masterpiece in the making?",
+        imageUrl: "/home1/40.jpg",
+        likes: '1.0M'
       },
       {
         id: 16,
@@ -238,56 +241,6 @@ import { NextResponse } from "next/server";
         description: 'God mode will lick you someone to share the journey of life’s beautiful frames.',
         imageUrl: "/home1/34.jpg",
         likes: '712.5k'
-      },
-      {
-        id: 35,
-        title: 'Mrs Incredible',
-        description: 'Bookworm and aspiring entrepreneur, lost in fictional worlds and seeking someone to create a real-life happily ever after with.',
-        imageUrl: "/home1/35.jpg",
-        likes: '549.2k'
-      },
-      {
-        id: 36,
-        title: 'Benjamin',
-        description: 'Musician, serenading the world and searching for someone to harmonize with life’s melodies.',
-        imageUrl: "/home1/36.jpg",
-        likes: '938.6k'
-      },
-      
-      {
-        id: 36,
-        title: 'Noah',
-        description: "Noah, an aspiring astronaut, spends his nights gazing at the stars, yearning to explore the vast universe. At a stargazing event, he meets Ava, a talented chef whose culinary creations are like works of art. As they discuss dreams and aspirations, could their connection be written in the stars?",
-        imageUrl: "/home1/36.jpg",
-        likes: '1.2M'
-      },
-      {
-        id: 37,
-        title: 'Pink Wolf',
-        description: "Ava's restaurant isn't just about food, it's about creating unforgettable experiences. One evening, a charming musician named Benjamin walks in, serenading the guests with his melodies. As their paths intertwine over a shared love for music and art, could their connection be the perfect harmony?",
-        imageUrl: "/home1/37.jpg",
-        likes: '938.6k'
-      },
-      {
-        id: 38,
-        title: 'Benjamin',
-        description: "Benjamin's guitar isn't just an instrument, it's his voice. While busking on a street corner, he catches the eye of Mia, a bookworm lost in a fantastical world. As their conversation flows from fictional adventures to real-life possibilities, could their connection be a story waiting to be written?",
-        imageUrl: "/home1/38.jpg",
-        likes: '549.2k'
-      },
-      {
-        id: 39,
-        title: 'Mia',
-        description: "Mia's love for books goes beyond reading, it's a portal to new worlds. At a local bookstore, she bumps into Alexander, a photographer capturing fleeting moments in time. As they share their passions and delve into each other's stories, could their connection be the most captivating chapter yet?",
-        imageUrl: "/home1/39.jpg",
-        likes: '712.5k'
-      },
-      {
-        id: 40,
-        title: 'Black Lover',
-        description: "Alexander's lens captures not just images, but emotions. On a nature hike, he encounters Sophia, a fashion designer with a flair for creating beauty. As they discuss art and the world around them, could their connection be a masterpiece in the making?",
-        imageUrl: "/home1/40.jpg",
-        likes: '1.0M'
       },
       {
         id: 41,

@@ -19,7 +19,7 @@ const cards = [
   {
     id: 3,
     title: 'Emily', 
-    description: 'I believe in love at first sight, or should I walk by again?', 
+    description: 'Emily is your daughters bestfriend since childhood.', 
     imageUrl: "/home1/3.jpg",
     likes: '492.8k'
   },
