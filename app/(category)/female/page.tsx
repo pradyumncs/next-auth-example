@@ -1,4 +1,4 @@
-import Dominant from "@/components/categorycomponents/dominant";
+import Female from "@/components/categorycomponents/female";
 
 // Example card data
 const cards = [
@@ -6,14 +6,14 @@ const cards = [
     id: 1,
     title: 'Prison Mia',
     description: 'Help her escape . She will do you any favours',
-    imageUrl: "/dominant/1.jpg",
+    imageUrl: "/female/1.jpg",
     likes: '243.5k'
   },
   {
     id: 2,
     title: 'Cat Freak',
     description: 'Love cats then charm him',
-    imageUrl: "/dominant/2.jpg",
+    imageUrl: "/female/2.jpg",
     likes: '128.9k'
   },
  
@@ -21,14 +21,14 @@ const cards = [
     id: 3,
     title: 'Army Dog',
     description: 'Be Army dogs friend . He has gone through alot',
-    imageUrl: "/dominant/3.jpg",
+    imageUrl: "/female/3.jpg",
     likes: '315.2k'
   },
   {
     id: 4,
     title: 'Fox Spice',
     description: 'Fox spice wolf girl Looking for someone to try new recipes with.',
-    imageUrl: "/dominant/4.jpg",
+    imageUrl: "/female/4.jpg",
     likes: '185.3k'
   },
   {
@@ -38,7 +38,62 @@ const cards = [
     imageUrl: "/dominant/5.jpg",
     likes: '204.7k'
   },
- 
+  {
+    id: 40,
+    title: 'Black Lover',
+    description: "Alexander's lens captures not just images, but emotions. On a nature hike, he encounters Sophia, a fashion designer with a flair for creating beauty. As they discuss art and the world around them, could their connection be a masterpiece in the making?",
+    imageUrl: "/home1/40.jpg",
+    likes: '1.0M'
+  },
+  {
+    id: 20,
+    title: 'Noah',
+    description: 'Engineer and puzzle solver, looking for someone to connect the missing pieces.',
+    imageUrl: "/home1/20.jpg",
+    likes: '813.0k'
+  },
+  {
+    id: 35,
+    title: 'Mrs Incredible',
+    description: 'I am starting to like you after that I will divorce my husband',
+    imageUrl: "/home1/35.jpg",
+    likes: '549.2k'
+  },
+  {
+    id: 38,
+    title: 'Benjamin',
+    description: "Benjamin's guitar isn't just an instrument, it's his voice. While busking on a street corner, he catches the eye of Mia, a bookworm lost in a fantastical world. As their conversation flows from fictional adventures to real-life possibilities, could their connection be a story waiting to be written?",
+    imageUrl: "/home1/38.jpg",
+    likes: '549.2k'
+  },
+  {
+    id: 18,
+    title: 'Lucas',
+    description: 'Outdoor photographer, capturing life\'s moments, seeking a muse.',
+    imageUrl: "/home1/18.jpg",
+    likes: '672.1k'
+  },
+  {
+    id: 21,
+    title: 'Lily',
+    description: 'Gardener and nature lover, let’s grow something beautiful together.',
+    imageUrl: "/home1/21.jpg",
+    likes: '572.3k'
+  },
+  {
+    id: 39,
+    title: 'Mia',
+    description: "Mia's love for books goes beyond reading, it's a portal to new worlds. At a local bookstore, she bumps into Alexander, a photographer capturing fleeting moments in time. As they share their passions and delve into each other's stories, could their connection be the most captivating chapter yet?",
+    imageUrl: "/home1/39.jpg",
+    likes: '712.5k'
+  },
+  {
+    id: 16,
+    title: 'Joshua',
+    description: 'Coffee connoisseur and startup enthusiast, lets brew some ideas together.',
+    imageUrl: "/home1/16.jpg",
+    likes: '548.9k'
+  },
   {
     id: 37,
     title: 'Pink Wolf',
@@ -283,7 +338,7 @@ const cards = [
 export default function Index() {
   return (
     <div className="container mx-auto px-4">
-      <Dominant cards={cards} />
+      <Female cards={cards} />
     </div>
   );
 }

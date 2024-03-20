@@ -1,18 +1,21 @@
 import { NextResponse } from "next/server";
 
+
+
+ 
     const post:any = [
       {
         id: 1,
         title: 'Prison Mia',
         description: 'Help her escape . She will do you any favours',
-        imageUrl: "/submissive/1.jpg",
+        imageUrl: "/female/1.jpg",
         likes: '243.5k'
       },
       {
         id: 2,
         title: 'Cat Freak',
-        description: 'I am your master',
-        imageUrl: "/submissive/2.jpg",
+        description: 'Love cats then charm him',
+        imageUrl: "/female/2.jpg",
         likes: '128.9k'
       },
      
@@ -20,86 +23,22 @@ import { NextResponse } from "next/server";
         id: 3,
         title: 'Army Dog',
         description: 'Be Army dogs friend . He has gone through alot',
-        imageUrl: "/submissive/3.jpg",
+        imageUrl: "/female/3.jpg",
         likes: '315.2k'
       },
       {
         id: 4,
         title: 'Fox Spice',
         description: 'Fox spice wolf girl Looking for someone to try new recipes with.',
-        imageUrl: "/submissive/4.jpg",
+        imageUrl: "/female/4.jpg",
         likes: '185.3k'
       },
       {
         id: 5,
         title: 'Goblin Slave Leslie',
         description: 'A goblin slave for sale, and you managed to buy her for a cheap price.',
-        imageUrl: "/submissive/5.jpg",
+        imageUrl: "/dominant/5.jpg",
         likes: '204.7k'
-      },
-
-      {
-        id: 25,
-        title: 'Charlotte',
-        description: 'Vet nurse, animal lover, looking for a human companion.',
-        imageUrl: "/home1/25.jpg",
-        likes: '519.7k'
-      },
-      {
-        id: 26,
-        title: 'David',
-        description: 'Software developer by day, hopeless romantic by night. Looking for someone to write our own love story.',
-        imageUrl: "/home1/26.jpg",
-        likes: '741.2k'
-      },
-      {
-        id: 35,
-        title: 'Mrs Incredible',
-        description: 'I am starting to like you after that I will divorce my husband',
-        imageUrl: "/home1/35.jpg",
-        likes: '549.2k'
-      },
-      {
-        id: 36,
-        title: 'Benjamin',
-        description: 'Musician, serenading the world and searching for someone to harmonize with life’s melodies.',
-        imageUrl: "/home1/36.jpg",
-        likes: '938.6k'
-      },
-      {
-        id: 37,
-        title: 'Pink Wolf',
-        description: "Ava's restaurant isn't just about food, it's about creating unforgettable experiences. One evening, a charming musician named Benjamin walks in, serenading the guests with his melodies. As their paths intertwine over a shared love for music and art, could their connection be the perfect harmony?",
-        imageUrl: "/home1/37.jpg",
-        likes: '938.6k'
-      },
-      {
-        id: 7,
-        title: 'Fitness Enthusiast Sarah',
-        description: 'Into fitness and outdoor activities. Let\'s go for a run or hike together!',
-        imageUrl: "/nsfww/7.jpg",
-        likes: '192.3k'
-      },
-      {
-        id: 8,
-        title: 'Goku',
-        description: 'Goku wants to flirt with you . Let him',
-        imageUrl: "/nsfww/8.jpg",
-        likes: '278.6k'
-      },
-      {
-        id: 9,
-        title: 'Animal Lover Mia',
-        description: 'Adores animals and spends free time volunteering at the local shelter.',
-        imageUrl: "/nsfww/9.jpg",
-        likes: '176.4k'
-      },
-      {
-        id: 10,
-        title: 'Travel Enthusiast Chloe',
-        description: 'Wanderlust-driven adventurer seeking a partner for exploring the world.',
-        imageUrl: "/nsfww/10.jpg",
-        likes: '341.9k'
       },
       {
         id: 40,
@@ -332,7 +271,70 @@ import { NextResponse } from "next/server";
         imageUrl: "/home1/24.jpg",
         likes: '426.1k'
       },
-      
+      {
+        id: 25,
+        title: 'Charlotte',
+        description: 'Vet nurse, animal lover, looking for a human companion.',
+        imageUrl: "/home1/25.jpg",
+        likes: '519.7k'
+      },
+      {
+        id: 26,
+        title: 'David',
+        description: 'Software developer by day, hopeless romantic by night. Looking for someone to write our own love story.',
+        imageUrl: "/home1/26.jpg",
+        likes: '741.2k'
+      },
+      {
+        id: 35,
+        title: 'Mrs Incredible',
+        description: 'I am starting to like you after that I will divorce my husband',
+        imageUrl: "/home1/35.jpg",
+        likes: '549.2k'
+      },
+      {
+        id: 36,
+        title: 'Benjamin',
+        description: 'Musician, serenading the world and searching for someone to harmonize with life’s melodies.',
+        imageUrl: "/home1/36.jpg",
+        likes: '938.6k'
+      },
+      {
+        id: 37,
+        title: 'Pink Wolf',
+        description: "Ava's restaurant isn't just about food, it's about creating unforgettable experiences. One evening, a charming musician named Benjamin walks in, serenading the guests with his melodies. As their paths intertwine over a shared love for music and art, could their connection be the perfect harmony?",
+        imageUrl: "/home1/37.jpg",
+        likes: '938.6k'
+      },
+      {
+        id: 7,
+        title: 'Fitness Enthusiast Sarah',
+        description: 'Into fitness and outdoor activities. Let\'s go for a run or hike together!',
+        imageUrl: "/nsfww/7.jpg",
+        likes: '192.3k'
+      },
+      {
+        id: 8,
+        title: 'Goku',
+        description: 'Goku wants to flirt with you . Let him',
+        imageUrl: "/nsfww/8.jpg",
+        likes: '278.6k'
+      },
+      {
+        id: 9,
+        title: 'Animal Lover Mia',
+        description: 'Adores animals and spends free time volunteering at the local shelter.',
+        imageUrl: "/nsfww/9.jpg",
+        likes: '176.4k'
+      },
+      {
+        id: 10,
+        title: 'Travel Enthusiast Chloe',
+        description: 'Wanderlust-driven adventurer seeking a partner for exploring the world.',
+        imageUrl: "/nsfww/10.jpg",
+        likes: '341.9k'
+      },
+    
     ]
 
     export async function GET(request: Request, context:any) {
