@@ -331,6 +331,10 @@ import { NextResponse } from "next/server";
         imageUrl: "/nsfww/10.jpg",
         likes: '341.9k'
       },
+      {
+        id: 100,
+        
+      },
     ]
 
     export async function GET(request: Request, context:any) {
