@@ -3,7 +3,7 @@ import "next-auth/jwt"
 
 import Apple from "next-auth/providers/apple"
 // import Atlassian from "next-auth/providers/atlassian"
-import Auth0 from "next-auth/providers/auth0"
+
 import AzureB2C from "next-auth/providers/azure-ad-b2c"
 import BankIDNorway from "next-auth/providers/bankid-no"
 import BoxyHQSAML from "next-auth/providers/boxyhq-saml"
@@ -53,60 +53,22 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
   theme: { logo: "https://authjs.dev/img/logo-sm.png" },
   adapter: UnstorageAdapter(storage),
   providers: [
-    Apple,
-    // Atlassian,
-    Auth0,
-    AzureB2C,
-    BankIDNorway,
-    BoxyHQSAML({
-      clientId: "dummy",
-      clientSecret: "dummy",
-      issuer: process.env.AUTH_BOXYHQ_SAML_ISSUER,
-    }),
-    Cognito,
-    Coinbase,
-    Discord,
-    Dropbox,
-    Facebook,
-    GitHub,
-    GitLab,
+   
     Google,
-    Hubspot,
-    Keycloak({ name: "Keycloak (bob/bob)" }),
-    LinkedIn,
-    MicrosoftEntraId,
-    Netlify,
-    Okta,
-    Passkey({
-      formFields: {
-        email: {
-          label: "Username",
-          required: true,
-          autocomplete: "username webauthn",
-        },
-      },
-    }),
-    Passage,
-    Pinterest,
-    Reddit,
-    Salesforce,
-    Slack,
-    Spotify,
-    Twitch,
-    Twitter,
-    Vipps({
-      issuer: "https://apitest.vipps.no/access-management-1.0/access/",
-    }),
-    WorkOS({ connection: process.env.AUTH_WORKOS_CONNECTION! }),
-    Zoom,
+  
   ],
   basePath: "/auth",
   session: { strategy: "jwt" },
   callbacks: {
     authorized({ request, auth }) {
       const { pathname } = request.nextUrl
-      if (pathname === "/middleware-example") return !!auth
-      return true
+      if (
+        pathname === "/" ||
+        pathname === "/policy" ||
+        pathname.startsWith("/auth")
+      )
+        return true
+      return !!auth
     },
     jwt({ token, trigger, session, account }) {
       if (trigger === "update") token.name = session.user.name
